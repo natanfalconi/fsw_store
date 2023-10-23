@@ -13,7 +13,7 @@ const CatalogPage = async () => {
                 className="gap-1 w-fit text-base uppercase border-primary px-3 border-2 py-[0.365rem]"
                 variant='outline'
             >
-                <LayoutPanelTop size={16} />
+                {<LayoutPanelTop size={16} />}
                 Catálogo
             </Badge>
 
