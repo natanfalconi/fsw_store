@@ -27,7 +27,6 @@ const CategoryProducts = async ({ params }: any) => {
         return null
     }
 
-
     return (
         <div className="p-5 flex flex-col gap-8">
             <Badge
